@@ -1,0 +1,29 @@
+.container {
+position: relative;
+display: flex;
+justify-content: center;
+}
+
+.block {
+    width: 500px;
+    height: 300px;
+}
+
+.block1 {
+    background-color: red;
+    position: absolute;
+    top: 1000px;
+    left: 0;
+}
+.block2 {
+    background-color: green;
+}
+.block3 {
+    background-color: blue;
+}
+.block4 {
+    background-color: yellow;
+}
+.block5 {
+    background-color: purple;
+}
