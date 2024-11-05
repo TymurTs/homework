@@ -40,3 +40,9 @@
     left: 0;
     z-index: 5;
 }
+
+.head1 {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
