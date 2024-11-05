@@ -18,25 +18,25 @@
 }
 .block2 {
     background-color: green;
-    top: 0;
+    top: 100px;
     left: 0;
     z-index: 2;
 }
 .block3 {
     background-color: blue;
-    top: 0;
+    top: 200px;
     left: 0;
     z-index: 3;
 }
 .block4 {
     background-color: yellow;
-    top: 0;
+    top: 300px;
     left: 0;
     z-index: 4;
 }
 .block5 {
     background-color: purple;
-    top: 0;
+    top: 400px;
     left: 0;
     z-index: 5;
 }
